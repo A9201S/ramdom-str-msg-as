@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "Adrian Salcedo",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/A9201S/ramdom-str-msg-as.git"
+  }
 }
