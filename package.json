@@ -14,7 +14,7 @@
     "url": "https://github.com/A9201S/ramdom-str-msg-as.git"
   },
   "bin": {
-    "ramdom-str-as": "./bin/global.js"
+    "random-str-msg-as": "./bin/global.js"
   },
   "preferGlobal": true
 }
